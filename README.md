@@ -1,5 +1,1 @@
-# MiStore Clone
-
-### Live Project Demo
-### [View project Demo](https://mian-ali.github.io/MiStore/)
-"# E-comerce-sotre" 
+A React.js-powered MI Store clone, featuring a sleek interface and seamless navigation.
